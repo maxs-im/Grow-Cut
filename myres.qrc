@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>BlueColour.png</file>
+        <file>Cancel.png</file>
+        <file>Delete.png</file>
+        <file>Icon.png</file>
+        <file>Start.png</file>
+        <file>RedColour.png</file>
+        <file>Finish.png</file>
+        <file>Add.png</file>
+        <file>Set BackGround.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
